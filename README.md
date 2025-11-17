@@ -1,8 +1,19 @@
-# 👓 Óptica Mérida
+# 👓 Material Shop
 
-E-commerce demo built with Angular and Material Design
+Multi-framework `Material Design` e-commerce demo (Angular • React • Vue)
 
 > All data is scraped and mock-served to simulate real product listings and interactions, created for learning and UI practice.
+
+## TODOs
+- [ ] Setup monorepo
+- [ ] Setup frameworks
+  - [ ] Vue
+    - https://primevue.org/
+    - https://vuetifyjs.com
+  - [ ] Angular
+    - https://material.angular.dev/
+  - [ ] React
+  - https://mui.com/
 
 ## Pre-requisitos
 
